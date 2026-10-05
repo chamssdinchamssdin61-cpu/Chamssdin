@@ -16,7 +16,7 @@ global.owner = [
 
 global.namebot = 'بوت';
 global.author = 'ZIGZAG-MD';
-global.source = 'https://www.facebook.com/profile.php?id=61591783185803';
+global.source = 'https://www.facebook.com/share/1E1JtKuzVE/?mibextid=wwXIfr
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
