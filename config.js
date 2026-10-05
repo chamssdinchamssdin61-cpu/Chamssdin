@@ -8,14 +8,14 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212680697262;
+global.pairingNumber = 212716442660;
 global.owner = [
-  ['212646565333', 'DAMAR-MD', true],
+  ['212716442660', 'ZIGZAG-MD', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'بوت';
-global.author = 'DAMAR-MD';
+global.author = 'ZIGZAG-MD';
 global.source = 'https://www.facebook.com/profile.php?id=61591783185803';
 
 global.wait = 'Loading... | جاري الانتظار';
