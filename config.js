@@ -10,7 +10,7 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212621645979;
 global.owner = [
-  ['212621645979'] 
+  ['212621645979],  
 ', 'ZIGZAG-MD', true],
   ['', 'Owner 2', true],
 ];
