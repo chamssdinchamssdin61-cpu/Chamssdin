@@ -10,12 +10,12 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212621645979;
 global.owner = [
-  ['212646565333', 'DAMAR-MD', true],
+  ['212646565333', 'zigzag-MD', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'بوت';
-global.author = 'DAMAR-MD';
+global.author = 'zigzag-MD';
 global.source = 'https://www.facebook.com/share/1E1JtKuzVE/?mibextid=wwXIfr';
 
 global.wait = 'Loading... | جاري الانتظار';
