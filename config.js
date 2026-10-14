@@ -8,7 +8,7 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212621670972;
+global.pairingNumber = 212621645979;
 global.owner = [
   ['212621645979', 'zigzag-MD', true],
   ['', 'Owner 2', true],
